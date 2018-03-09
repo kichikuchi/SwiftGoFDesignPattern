@@ -3,5 +3,6 @@
     <pages>
         <page name='AbstractFactory'/>
         <page name='Builder'/>
+        <page name='Factory Method'/>
     </pages>
 </playground>
