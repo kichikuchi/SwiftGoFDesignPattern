@@ -1,10 +1,11 @@
 import Foundation
 
 /*:
- **protocols**
+ **Example**
  */
 
 
+// protocols
 protocol Decimal {
     func stringValue() -> String
     static func make(string: String) -> Decimal
@@ -36,11 +37,8 @@ struct SwiftNumber: Decimal {
     }
 }
 
-/*:
- **Abstract factory**
- */
 
-
+//Abstract factory
 enum NumberType {
     case nextStep, swift
 }
