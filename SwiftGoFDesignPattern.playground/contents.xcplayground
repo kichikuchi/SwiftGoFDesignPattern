@@ -14,5 +14,6 @@
         <page name='Flyweight'/>
         <page name='Proxy'/>
         <page name='ChainOfResponsibility'/>
+        <page name='Command'/>
     </pages>
 </playground>
