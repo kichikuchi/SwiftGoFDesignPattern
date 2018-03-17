@@ -10,5 +10,6 @@
         <page name='Bridge'/>
         <page name='Composite'/>
         <page name='Decorator'/>
+        <page name='Facade'/>
     </pages>
 </playground>

@@ -1,0 +1,29 @@
+//: [Previous](@previous)
+
+import Foundation
+
+/*:
+ **Example**
+ */
+
+enum Eternal {
+    static func set(_ object: Any, forKey defaultName: String) {
+        let defaults = UserDefaults.standard
+        defaults.set(object, forKey: defaultName)
+        defaults.synchronize()
+    }
+    
+    static func object(forKey key: String) -> AnyObject! {
+        let defaults = UserDefaults.standard
+        return defaults.object(forKey: key) as AnyObject!
+    }
+}
+
+/*:
+ **Usage**
+ */
+
+Eternal.set("Disconnect me. I'd rather be nothing", forKey: "Bishop")
+Eternal.object(forKey: "Bishop")
+
+//: [Next](@next)
