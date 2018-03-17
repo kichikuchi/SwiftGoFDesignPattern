@@ -16,5 +16,6 @@
         <page name='ChainOfResponsibility'/>
         <page name='Command'/>
         <page name='Interpreter'/>
+        <page name='Iterator'/>
     </pages>
 </playground>
