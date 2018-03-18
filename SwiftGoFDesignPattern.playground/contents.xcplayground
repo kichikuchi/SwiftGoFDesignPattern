@@ -21,5 +21,6 @@
         <page name='Memento'/>
         <page name='Observer'/>
         <page name='State'/>
+        <page name='Strategy'/>
     </pages>
 </playground>
