@@ -17,5 +17,6 @@
         <page name='Command'/>
         <page name='Interpreter'/>
         <page name='Iterator'/>
+        <page name='Mediator'/>
     </pages>
 </playground>
