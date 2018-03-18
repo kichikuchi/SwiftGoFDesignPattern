@@ -19,5 +19,6 @@
         <page name='Iterator'/>
         <page name='Mediator'/>
         <page name='Memento'/>
+        <page name='Observer'/>
     </pages>
 </playground>
