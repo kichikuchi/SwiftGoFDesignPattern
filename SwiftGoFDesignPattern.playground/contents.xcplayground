@@ -23,5 +23,6 @@
         <page name='State'/>
         <page name='Strategy'/>
         <page name='Template'/>
+        <page name='Visitor'/>
     </pages>
 </playground>
