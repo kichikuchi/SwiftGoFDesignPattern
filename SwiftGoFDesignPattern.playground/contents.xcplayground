@@ -22,5 +22,6 @@
         <page name='Observer'/>
         <page name='State'/>
         <page name='Strategy'/>
+        <page name='Template'/>
     </pages>
 </playground>
